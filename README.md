@@ -5,7 +5,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/amisha123prajapati/amisha123prajapati)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amisha123prajapati&theme=onedark)](https://github.com/amisha123prajapati/amisha123prajapati)
 
 <p align="left"> <a href="https://twitter.com/amishap71521823" target="blank"><img src="https://img.shields.io/twitter/follow/amishap71521823?logo=twitter&style=for-the-badge" alt="amishap71521823" /></a> </p>
 
