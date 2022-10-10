@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha123prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="amisha123prajapati" /> </p>
 
 
-
-<center>[![trophy](https://github-profile-trophy.vercel.app/?username=amisha123prajapati&theme=onedark)](https://github.com/amisha123prajapati/amisha123prajapati)</center>
+[![trophy](https://github-profile-trophy.vercel.app/?username=amisha123prajapati&theme=onedark)](https://github.com/amisha123prajapati/amisha123prajapati)
 
 <p align="left"> <a href="https://twitter.com/amishap71521823" target="blank"><img src="https://img.shields.io/twitter/follow/amishap71521823?logo=twitter&style=for-the-badge" alt="amishap71521823" /></a> </p>
 
